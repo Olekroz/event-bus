@@ -4,7 +4,7 @@ Event-driven pattern that enable your components to interact with each other. Ev
 
 ---
 
-## First of all, install packages
+## Install packages
 
 `npm ci`
 
